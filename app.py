@@ -31,7 +31,7 @@ except Exception:
 # ----------------------------------------------------------------------------
 st.set_page_config(page_title="AI ETF Robo Advisor", page_icon="📊", layout="wide")
 st.title("📊 AI 기반 ETF Robo Advisor")
-st.caption("세종대학교 경영전문대학원 · 스마트자산관리 · 정윤정(25200206)")
+st.caption("세종대학교 경영전문대학원 · 정윤정(25200206)")
 st.warning(
     "⚠️ **본 앱은 교육용 시뮬레이션입니다.** 실제 투자 권유·자문·매매 추천이 아니며, "
     "과거 성과는 미래 수익을 보장하지 않습니다."
